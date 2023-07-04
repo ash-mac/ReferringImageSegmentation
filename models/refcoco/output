@@ -1,0 +1,9 @@
+RANK and WORLD_SIZE in environment: 0/4
+RANK and WORLD_SIZE in environment: 1/4
+RANK and WORLD_SIZE in environment: 3/4
+RANK and WORLD_SIZE in environment: 2/4
+Image size: 224
+loading dataset refcoco into memory...
+creating index...
+index created.
+DONE (t=6.33s)
